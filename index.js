@@ -74,7 +74,7 @@ const commands = {
         }
     },
     whoami() {
-        this.echo("👨‍💻 Computer Scientist |\n🌌 Physicist Enthusiast 💡\nAlways exploring new technologies and seeking to\nbridge the gap between science and technology.")
+        this.echo("Hi 👋, my name is Rayane TOKO\n👨‍💻 Computer Scientist |\n🌌 Physicist Enthusiast 💡\nAlways exploring new technologies and seeking to\nbridge the gap between science and technology.")
     },
     mywebsite() {
         window.open("https://rayanetoko.netlify.app/", "_blank");
