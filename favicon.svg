@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="34.216225mm"
+   height="22.923319mm"
+   viewBox="0 0 34.216225 22.923319"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-100.5063,-129.52259)">
+    <rect
+       style="opacity:1;fill:#ececec;stroke:#000000;stroke-width:1.05833;stroke-linejoin:round"
+       id="rect1"
+       width="33.157894"
+       height="21.864986"
+       x="101.03547"
+       y="130.05176"
+       ry="0.72082382"
+       rx="0.72082382" />
+    <rect
+       style="opacity:1;fill:#1a1a1a;stroke:none;stroke-width:1.05833;stroke-linejoin:bevel"
+       id="rect2"
+       width="13.575517"
+       height="1.9221996"
+       x="117.80324"
+       y="149.06747"
+       ry="0.59464931"
+       rx="0.63712424" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:2.11667;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="m 104.02585,135.98107 11.06613,6.72774 -11.15178,6.77983"
+       id="path2"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.3513px;line-height:1.4;font-family:'Sunny Spells';-inkscape-font-specification:'Sunny Spells, Normal';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#0000ff;stroke:#000000;stroke-width:1.05833;stroke-linejoin:bevel"
+       x="70.315636"
+       y="197.20583"
+       id="text1"
+       transform="matrix(1.4705578,5.5952145e-5,-1.2231409e-5,0.68001408,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.26725px;font-family:'Sunny Spells';-inkscape-font-specification:'Sunny Spells, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ff;stroke:none;stroke-width:1.05833"
+         x="70.315636"
+         y="197.20583">Portfolio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.1121px;line-height:1.4;font-family:'Sunny Spells';-inkscape-font-specification:'Sunny Spells, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#008080;stroke:none;stroke-width:2.11664;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="116.94356"
+       y="148.11751"
+       id="text2"
+       transform="scale(0.99505985,1.0049647)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#008080;stroke:none;stroke-width:2.11664"
+         x="116.94356"
+         y="148.11751">TR</tspan></text>
+  </g>
+</svg>
