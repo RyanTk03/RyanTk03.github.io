@@ -203,8 +203,11 @@ function ready() {
     .resume();
 }
 
-figlet.defaults({fontPath: 'https://unpkg.com/figlet/fonts/'});
-figlet.preloadFonts([ASCII_ART_FONT], ready);
+figlet.defaults({fontPath: 'https://cdn.jsdelivr.net/npm/figlet@1.8.1/fonts/'});
+figlet.preloadFonts([ASCII_ART_FONT], ready, function(error) {
+    console.error('Failed to load font:', error);
+    ready();
+});
 
 const re = new RegExp(`^\s*(${Object.keys(commands).join('|')})(\s?.*)`);
 
