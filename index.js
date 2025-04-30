@@ -203,7 +203,7 @@ function ready() {
     .resume();
 }
 
-figlet.defaults({fontPath: 'https://cdn.jsdelivr.net/npm/figlet@1.8.1/fonts/'});
+figlet.defaults({fontPath: 'https://cdn.jsdelivr.net/npm/figlet@1.8.1/fonts'});
 figlet.preloadFonts([ASCII_ART_FONT], ready, function(error) {
     console.error('Failed to load font:', error);
     ready();
