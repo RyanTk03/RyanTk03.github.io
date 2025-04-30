@@ -80,7 +80,7 @@ const commands = {
         window.open("https://rayanetoko.netlify.app/", "_blank");
     },
     cd(dir = null) {
-        if (dir === null || (dir === '..' && cwd !== root)) {
+        if (dir === null || (['..', '../'].includes(dir) && cwd !== ROOT)) {
             cwd = ROOT;
         } else if (dir.startsWith('~/') && Object.keys(DIRECTORIES).includes(dir.substring(2))) {
             cwd = dir;
@@ -212,7 +212,7 @@ figlet.preloadFonts([ASCII_ART_FONT], ready, function(error) {
 const re = new RegExp(`^\s*(${Object.keys(commands).join('|')})(\s?.*)`);
 
 $.terminal.new_formatter([re, function(_, command, args) {
-    return `<white class="command--typing">${command}</white><green>${args}</green>`;
+    return `[[;#5555ff;]${command}][[;white;]${args}]`;
 }]);
 
 $.terminal.xml_formatter.tags.green = (attrs) => {

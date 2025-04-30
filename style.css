@@ -1,5 +1,5 @@
 :root {
-    --size: 1.2
+    --size: 1.5
 }
 
 * {
@@ -22,6 +22,6 @@ body {
     text-decoration: underline;
 }
 
-.fcommand.command--typing {
+.command.command--typing {
     text-decoration: none;
 }
